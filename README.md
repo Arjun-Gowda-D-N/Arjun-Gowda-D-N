@@ -1,5 +1,18 @@
 # 💫 About Me:
-💻 Software Engineer in Training: Passionate about transitioning from Civil Engineering to Software Development.<br><br>🌱 Learning & Growing: Currently honing skills in Python, Linux, AWS, Networking, API, REST, and Selenium.<br><br>🏢 Cybersecurity Professional: Working at Commvault, gaining valuable industry experience.<br><br>🤝 Team Player: Committed to contributing to company success through hard work, collaboration, and adaptability.<br><br>🚀 Career Goals: Aspiring to excel as a Software Engineer, leveraging my diverse background and transferable skills.
+🎓 MSc Student in Data Science, AI & Digital Business (Germany): Building strong foundations in data analytics, artificial intelligence, and business-driven technology solutions.
+
+💻 Aspiring Data & Technology Professional: Passionate about leveraging data, automation, and intelligent systems to solve real-world business problems.
+
+🌱 Currently Learning: Enhancing skills in Python, SQL, Data Analysis, Machine Learning fundamentals, APIs, Linux, and Automation Testing through hands-on projects and coursework.
+
+🏢 Professional Experience: HR Operations Contractor at Commvault, gaining valuable experience in global business operations, process optimization, stakeholder coordination, and data-driven decision support.
+
+📊 Interests: Data Analytics, AI applications, business intelligence, and process automation. Actively working on practical projects to strengthen analytical and technical capabilities.
+
+🤝 Team Player: Adaptable, detail-oriented, and committed to continuous learning. Comfortable working in multicultural and fast-paced environments.
+
+🚀 Career Goal: To grow into a Data Analyst / AI-focused professional role, combining technical expertise with business understanding to deliver impactful insights and solutions.
+
 
 
 ## 🌐 Socials:
